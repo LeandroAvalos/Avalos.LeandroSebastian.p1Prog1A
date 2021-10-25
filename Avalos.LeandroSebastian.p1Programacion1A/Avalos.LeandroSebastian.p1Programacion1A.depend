@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635164317 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.p1programacion1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
